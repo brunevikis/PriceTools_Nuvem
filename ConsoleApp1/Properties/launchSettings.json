@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "1",
+      "workingDirectory": "Z:\\6_decomp\\03_Casos\\2021_01\\21-01-05\\rv3\\20210105_CV2_ACOMPH_FUNC_GFS_BRUNO"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Development\price_tools - Azure\VazoesApp\bin\Debug\Compass.VazoesApp.exe
+C:\Development\price_tools - Azure\VazoesApp\bin\Debug\Compass.VazoesApp.pdb
+C:\Development\price_tools - Azure\VazoesApp\obj\Debug\VazoesApp.csprojAssemblyReference.cache
+C:\Development\price_tools - Azure\VazoesApp\obj\Debug\VazoesApp.csproj.CoreCompileInputs.cache
+C:\Development\price_tools - Azure\VazoesApp\obj\Debug\Compass.VazoesApp.exe
+C:\Development\price_tools - Azure\VazoesApp\obj\Debug\Compass.VazoesApp.pdb
+C:\Development\price_tools-Azure\VazoesApp\bin\Debug\Compass.VazoesApp.exe
+C:\Development\price_tools-Azure\VazoesApp\bin\Debug\Compass.VazoesApp.pdb
+C:\Development\price_tools-Azure\VazoesApp\obj\Debug\VazoesApp.csproj.CoreCompileInputs.cache
+C:\Development\price_tools-Azure\VazoesApp\obj\Debug\Compass.VazoesApp.exe
+C:\Development\price_tools-Azure\VazoesApp\obj\Debug\Compass.VazoesApp.pdb
+C:\price_tools-Azure\VazoesApp\bin\Debug\Compass.VazoesApp.exe
+C:\price_tools-Azure\VazoesApp\bin\Debug\Compass.VazoesApp.pdb
+C:\price_tools-Azure\VazoesApp\obj\Debug\VazoesApp.csproj.AssemblyReference.cache
+C:\price_tools-Azure\VazoesApp\obj\Debug\VazoesApp.csproj.CoreCompileInputs.cache
+C:\price_tools-Azure\VazoesApp\obj\Debug\Compass.VazoesApp.exe
+C:\price_tools-Azure\VazoesApp\obj\Debug\Compass.VazoesApp.pdb

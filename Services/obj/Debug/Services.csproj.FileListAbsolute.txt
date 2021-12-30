@@ -1,0 +1,161 @@
+C:\Development\price_tools\Services\bin\Debug\Posto_regre_base.txt
+C:\Development\price_tools\Services\bin\Debug\RegressoesA1.txt
+C:\Development\price_tools\Services\bin\Debug\RegressoesA0.txt
+C:\Development\price_tools\Services\bin\Debug\Compass.Services.dll.config
+C:\Development\price_tools\Services\bin\Debug\Compass.Services.dll
+C:\Development\price_tools\Services\bin\Debug\Compass.Services.pdb
+C:\Development\price_tools\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools\Services\bin\Debug\Compass.ExcelTools.dll
+C:\Development\price_tools\Services\bin\Debug\EntityFramework.dll
+C:\Development\price_tools\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools\Services\bin\Debug\LinuxQueue40.dll
+C:\Development\price_tools\Services\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\Development\price_tools\Services\bin\Debug\EntityFramework.xml
+C:\Development\price_tools\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools\Services\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Development\price_tools\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Development\price_tools\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Development\price_tools\Services\obj\Debug\Compass.Services.dll
+C:\Development\price_tools\Services\obj\Debug\Compass.Services.pdb
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Posto_regre_base.txt
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\RegressoesA1.txt
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\RegressoesA0.txt
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.Services.dll.config
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.Services.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.Services.pdb
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.ExcelTools.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\EntityFramework.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\LinuxQueue40.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\EntityFramework.xml
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools - desenv\trunk\Services\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools - desenv\trunk\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Development\price_tools - desenv\trunk\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Development\price_tools - desenv\trunk\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Development\price_tools - desenv\trunk\Services\obj\Debug\Compass.Services.dll
+C:\Development\price_tools - desenv\trunk\Services\obj\Debug\Compass.Services.pdb
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Posto_regre_base.txt
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\RegressoesA1.txt
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\RegressoesA0.txt
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.Services.dll.config
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.Services.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.Services.pdb
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.ExcelTools.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\EntityFramework.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\LinuxQueue40.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\System.ValueTuple.dll
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\EntityFramework.xml
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\FARIA\price_tools\trunk\Services\bin\Debug\System.ValueTuple.xml
+C:\Development\FARIA\price_tools\trunk\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Development\FARIA\price_tools\trunk\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Development\FARIA\price_tools\trunk\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Development\FARIA\price_tools\trunk\Services\obj\Debug\Compass.Services.dll
+C:\Development\FARIA\price_tools\trunk\Services\obj\Debug\Compass.Services.pdb
+C:\Development\price_tools\trunk\Services\bin\Debug\Posto_regre_base.txt
+C:\Development\price_tools\trunk\Services\bin\Debug\RegressoesA1.txt
+C:\Development\price_tools\trunk\Services\bin\Debug\RegressoesA0.txt
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.Services.dll.config
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.Services.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.Services.pdb
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.ExcelTools.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\EntityFramework.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\LinuxQueue40.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools\trunk\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\Development\price_tools\trunk\Services\bin\Debug\EntityFramework.xml
+C:\Development\price_tools\trunk\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools\trunk\Services\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools\trunk\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Development\price_tools\trunk\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Development\price_tools\trunk\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Development\price_tools\trunk\Services\obj\Debug\Compass.Services.dll
+C:\Development\price_tools\trunk\Services\obj\Debug\Compass.Services.pdb
+C:\Development\price_tools - Azure\Services\bin\Debug\Posto_regre_base.txt
+C:\Development\price_tools - Azure\Services\bin\Debug\RegressoesA1.txt
+C:\Development\price_tools - Azure\Services\bin\Debug\RegressoesA0.txt
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.Services.dll.config
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.Services.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.Services.pdb
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.ExcelTools.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\EntityFramework.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\LinuxQueue40.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools - Azure\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\Development\price_tools - Azure\Services\bin\Debug\EntityFramework.xml
+C:\Development\price_tools - Azure\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools - Azure\Services\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools - Azure\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Development\price_tools - Azure\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Development\price_tools - Azure\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Development\price_tools - Azure\Services\obj\Debug\Compass.Services.dll
+C:\Development\price_tools - Azure\Services\obj\Debug\Compass.Services.pdb
+C:\Development\price_tools-Azure\Services\bin\Debug\Posto_regre_base.txt
+C:\Development\price_tools-Azure\Services\bin\Debug\RegressoesA1.txt
+C:\Development\price_tools-Azure\Services\bin\Debug\RegressoesA0.txt
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.Services.dll.config
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.Services.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.Services.pdb
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.ExcelTools.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\EntityFramework.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\LinuxQueue40.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools-Azure\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\Development\price_tools-Azure\Services\bin\Debug\EntityFramework.xml
+C:\Development\price_tools-Azure\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools-Azure\Services\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools-Azure\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Development\price_tools-Azure\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Development\price_tools-Azure\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Development\price_tools-Azure\Services\obj\Debug\Compass.Services.dll
+C:\Development\price_tools-Azure\Services\obj\Debug\Compass.Services.pdb
+C:\price_tools-Azure\Services\bin\Debug\Posto_regre_base.txt
+C:\price_tools-Azure\Services\bin\Debug\RegressoesA1.txt
+C:\price_tools-Azure\Services\bin\Debug\RegressoesA0.txt
+C:\price_tools-Azure\Services\bin\Debug\Compass.Services.dll.config
+C:\price_tools-Azure\Services\bin\Debug\Compass.Services.dll
+C:\price_tools-Azure\Services\bin\Debug\Compass.Services.pdb
+C:\price_tools-Azure\Services\bin\Debug\Compass.CommomLibrary.dll
+C:\price_tools-Azure\Services\bin\Debug\Compass.ExcelTools.dll
+C:\price_tools-Azure\Services\bin\Debug\EntityFramework.dll
+C:\price_tools-Azure\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\price_tools-Azure\Services\bin\Debug\LinuxQueue40.dll
+C:\price_tools-Azure\Services\bin\Debug\System.ValueTuple.dll
+C:\price_tools-Azure\Services\bin\Debug\Compass.CommomLibrary.pdb
+C:\price_tools-Azure\Services\bin\Debug\Compass.CommomLibrary.dll.config
+C:\price_tools-Azure\Services\bin\Debug\Compass.ExcelTools.pdb
+C:\price_tools-Azure\Services\bin\Debug\EntityFramework.xml
+C:\price_tools-Azure\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\price_tools-Azure\Services\bin\Debug\System.ValueTuple.xml
+C:\price_tools-Azure\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\price_tools-Azure\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\price_tools-Azure\Services\obj\Debug\Services.csproj.CopyComplete
+C:\price_tools-Azure\Services\obj\Debug\Compass.Services.dll
+C:\price_tools-Azure\Services\obj\Debug\Compass.Services.pdb

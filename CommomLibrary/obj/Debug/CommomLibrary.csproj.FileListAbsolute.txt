@@ -1,0 +1,42 @@
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\EntityFramework.dll
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\EntityFramework.xml
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools - Azure\CommomLibrary\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools - Azure\CommomLibrary\obj\Debug\CommomLibrary.csprojAssemblyReference.cache
+C:\Development\price_tools - Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.CoreCompileInputs.cache
+C:\Development\price_tools - Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.CopyComplete
+C:\Development\price_tools - Azure\CommomLibrary\obj\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools - Azure\CommomLibrary\obj\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.dll.config
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.dll
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\System.ValueTuple.dll
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.xml
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\price_tools-Azure\CommomLibrary\bin\Debug\System.ValueTuple.xml
+C:\Development\price_tools-Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.CoreCompileInputs.cache
+C:\Development\price_tools-Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.CopyComplete
+C:\Development\price_tools-Azure\CommomLibrary\obj\Debug\Compass.CommomLibrary.dll
+C:\Development\price_tools-Azure\CommomLibrary\obj\Debug\Compass.CommomLibrary.pdb
+C:\Development\price_tools-Azure\CommomLibrary\obj\Debug\CommomLibrary.csprojAssemblyReference.cache
+C:\price_tools-Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.dll.config
+C:\price_tools-Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.dll
+C:\price_tools-Azure\CommomLibrary\bin\Debug\Compass.CommomLibrary.pdb
+C:\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.dll
+C:\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\price_tools-Azure\CommomLibrary\bin\Debug\System.ValueTuple.dll
+C:\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.xml
+C:\price_tools-Azure\CommomLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\price_tools-Azure\CommomLibrary\bin\Debug\System.ValueTuple.xml
+C:\price_tools-Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.AssemblyReference.cache
+C:\price_tools-Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.CoreCompileInputs.cache
+C:\price_tools-Azure\CommomLibrary\obj\Debug\CommomLibrary.csproj.CopyComplete
+C:\price_tools-Azure\CommomLibrary\obj\Debug\Compass.CommomLibrary.dll
+C:\price_tools-Azure\CommomLibrary\obj\Debug\Compass.CommomLibrary.pdb

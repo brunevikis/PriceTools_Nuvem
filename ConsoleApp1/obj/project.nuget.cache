@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7utfl5nZwLlGCkmSJ1rkWt0aoW1JlMmv+u2xSwaR2WThxKGUvpKc6q7Q3nsfFF4QeHxl+A2Ss0VfnWEea+J4A==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\price_tools-Azure\\ConsoleApp1\\TrataInviab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno.ENERCORENB05\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno.ENERCORENB05\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno.ENERCORENB05\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno.ENERCORENB05\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno.ENERCORENB05\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bruno.ENERCORENB05\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
